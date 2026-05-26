@@ -1,4 +1,4 @@
-## Hi there 👋
+## Thank you so much for coming to my GitHub. Enjoy!
 
 <!--
 **wwnsgh0622-sys/wwnsgh0622-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
