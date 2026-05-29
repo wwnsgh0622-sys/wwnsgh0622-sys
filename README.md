@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Junho%20Moon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Junho%20Moon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineering%20Student&descAlignY=55&descAlign=50)
 
 ---
 
