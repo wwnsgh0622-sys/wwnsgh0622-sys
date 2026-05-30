@@ -12,53 +12,56 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Result |
+|---------|-------------|------|--------|
+| 😄 [Facial Emotion Recognition](https://github.com/wwnsgh0622-sys/face-emotion-recognition) | Real-time facial emotion detection using CNN | PyTorch, OpenCV | 68.77% Acc |
+| 📚 [PDF RAG Chatbot](https://github.com/wwnsgh0622-sys/pdf-rag-chatbot) | PDF-based Q&A chatbot using LangChain | LangChain, HuggingFace | Real-time Q&A |
+| 🏠 [Seoul Housing Analysis](https://github.com/wwnsgh0622-sys/seoul-housing-analysis) | Seoul apartment price prediction | Pandas, Scikit-learn | R²=0.9488 |
+| 🎬 [Sentiment Analysis](https://github.com/wwnsgh0622-sys/naver-sentiment-analysis) | Korean movie review sentiment analysis | KoBERT, PyTorch | 88% Acc |
+| 🚢 [Titanic Prediction](https://github.com/wwnsgh0622-sys/titanic-analysis) | Titanic survival prediction | XGBoost, LightGBM | CV=83.95% |
+| 🎵 [Music Recommender](https://github.com/wwnsgh0622-sys/music-recommender) | Music recommendation using Cosine Similarity | Scikit-learn | Collaborative Filtering |
+| 📈 [Stock Prediction](https://github.com/wwnsgh0622-sys/stock-prediction) | Stock price prediction using LSTM | TensorFlow, Keras | RMSE=11.61 |
+| 🏥 [Medical Analysis](https://github.com/wwnsgh0622-sys/medical-analysis) | Breast cancer diagnosis with XAI | XGBoost, SHAP | 94.74% Acc |
+| 🌍 [Multimodal AI](https://github.com/wwnsgh0622-sys/multimodal-clip) | Image-text multimodal AI using CLIP | PyTorch, HuggingFace | 99.3% Zero-Shot |
+| 🤖 [LLM Fine-tuning](https://github.com/wwnsgh0622-sys/llm-finetuning) | KoGPT-2 fine-tuning with LoRA | PEFT, HuggingFace | 0.24% Params |
+| 🎯 [Portfolio Dashboard](https://github.com/wwnsgh0622-sys/portfolio-dashboard) | Interactive AI/ML portfolio dashboard | Streamlit, Plotly | 11 Projects |
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
 | **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **ML / Data** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **NLP / LLM** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [😄 Facial Emotion Recognition](https://github.com/wwnsgh0622-sys/face-emotion-recognition) | Real-time facial emotion detection using CNN | PyTorch, OpenCV |
-| [📚 PDF RAG Chatbot](https://github.com/wwnsgh0622-sys/rag-chatbot) | PDF-based Q&A chatbot using LangChain | LangChain, HuggingFace |
-| [🏠 Seoul Housing Analysis](https://github.com/wwnsgh0622-sys/seoul-housing-analysis) | Seoul apartment price prediction (R²=0.94) | Pandas, Scikit-learn |
-| [🎬 Sentiment Analysis](https://github.com/wwnsgh0622-sys/sentiment-analysis) | Korean movie review sentiment analysis (88%) | KoBERT, PyTorch |
-| [🚢 Titanic Prediction](https://github.com/wwnsgh0622-sys/titanic-analysis) | Titanic survival prediction (CV=83.95%) | XGBoost, LightGBM |
+| **ML/Data** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **LLM/NLP** | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) |
+| **Visualization** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=wwnsgh0622-sys&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wwnsgh0622-sys&theme=default" height="180em"/>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwnsgh0622-sys&show_icons=true&theme=tokyonight)](https://github.com/wwnsgh0622-sys)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwnsgh0622-sys&layout=compact&theme=tokyonight)](https://github.com/wwnsgh0622-sys)
 
 ---
 
 ## 🌱 Currently Working On
 
-- 📊 Streamlit Dashboard for Data Visualization
-- 🤖 Recommendation System
-- 📝 Paper Implementation
+- 📊 MLOps Pipeline (MLflow + Docker)
+- 🛒 Customer Purchase Prediction (RFM Analysis)
+- 📰 News Topic Modeling (BERTopic)
 
 ---
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wwnsgh0622@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wwnsgh0622-sys)
+- 📧 wwnsgh0622@gmail.com
+- 🐙 [GitHub](https://github.com/wwnsgh0622-sys)
+- 🌐 [Homepage](https://wwnsgh0622-sys.github.io)
+- 🚀 [Portfolio Dashboard](https://junho-portfolio.streamlit.app)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
