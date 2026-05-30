@@ -44,9 +44,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwnsgh0622-sys&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwnsgh0622-sys&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wwnsgh0622-sys&theme=tokyonight)
 
 ---
 
