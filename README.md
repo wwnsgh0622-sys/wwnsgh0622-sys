@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Junho%20Moon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%7C%20Software%20Engineering%20Student&descAlignY=55&descAlign=50)
 
 ---
+> 📢 **Note**: I have been working on various AI/ML projects and am now uploading them to GitHub. New projects will be uploaded as they are completed. Thank you for visiting! 🙏
 
+---
 ### 👋 Hi, I'm Junho Moon
 
 > Chung-Ang University, Software Engineering (26)<br/>
